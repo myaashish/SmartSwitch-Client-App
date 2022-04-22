@@ -8,6 +8,9 @@ local network or Internet and switch on or off electrical appliances connected t
 It provides a simple to use graphical interface to set number of switches to control and name them and
 micro-controller to connect to.
 
+![Picture](P_20160201_195654_HDR.jpg)
+
+![Video](V_20160201_195810.mp4)
 
 Some part of code has been modified in order to hide identifiable information (like IP address, MAC address
 and Web address).
